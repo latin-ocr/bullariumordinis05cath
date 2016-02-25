@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bullariumordinis05cath_0475.png"; bbox 0 0 2638 4088; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1046 3237 1859 3366">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1046 3237 1859 3366">
+     <span class='ocr_line' id='line_1_1' title="bbox 1171 3237 1715 3279; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 1171 3237 1715 3279; x_wconf 72' lang='grc' dir='ltr'><strong>πιεΑδευοκοτπεΜονε</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1046 3308 1859 3366; baseline 0.002 -11"><span class='ocrx_word' id='word_1_2' title='bbox 1046 3308 1859 3366; x_wconf 68' lang='grc' dir='ltr'><strong>απυδοπδιιπδπποΜτι-αδΡοαεῐ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1077 3427 1812 3499">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1077 3427 1812 3499">
+     <span class='ocr_line' id='line_1_3' title="bbox 1077 3427 1812 3499; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 1077 3459 1310 3499; x_wconf 56' lang='grc' dir='ltr'><strong>υκινεδπγ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1331 3458 1391 3496; x_wconf 70' lang='grc' dir='ltr'><strong>οε</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1413 3457 1628 3495; x_wconf 66' lang='lat' dir='ltr'><strong>maome</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1652 3427 1812 3494; x_wconf 68' lang='grc' dir='ltr'><strong>υυπΑπΥ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 119 0 2638 4088">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 119 0 2638 4088">
+     <span class='ocr_line' id='line_1_4' title="bbox 119 0 2638 4088; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 119 0 2638 4088; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
